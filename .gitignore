@@ -1,1 +1,7 @@
 /.idea/
+/infra/cdk.out/
+/infra/node_modules/
+/ec2-autoscaling-loadbalancer-demo-app.iml
+/app/target/
+/infra/cdk.context.json
+/infra/jest.config.js
